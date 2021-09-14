@@ -1,0 +1,16 @@
+.Product {
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2vmin;
+}
+.Product > img {
+    width: 100%;
+}
+.Product > button {
+    width: 50%;
+    padding: 1vmin;
+    color: white;
+    background: tomato;
+    border: none;
+    border-radius: 2vmin;
+}
